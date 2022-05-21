@@ -1,4 +1,4 @@
-#Conversos de Caracteres
+#Conversor de Caracteres
 
 def maiuscula():
 	entrada = input("Digite seu texto: ")
